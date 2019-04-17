@@ -1,0 +1,5 @@
+<resources>
+    <!--注意：需要将res/values/string.xml文件中的app_name字段删除，
+    这样打包之后就会根据不同的环境加载不同的app_name.-->
+    <!--<string name="app_name">DifferentPackageNameApk</string>-->
+</resources>
